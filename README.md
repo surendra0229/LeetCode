@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/surendra0229/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/surendra0229/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/surendra0229/LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/surendra0229/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surendra0229/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/surendra0229/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
