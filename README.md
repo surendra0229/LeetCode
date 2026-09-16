@@ -26,6 +26,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surendra0229/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/surendra0229/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/surendra0229/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/surendra0229/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/surendra0229/LeetCode/tree/master/0125-valid-palindrome) |
 ## Newton's Method
 |  |
 | ------- |
