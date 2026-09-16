@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/surendra0229/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/surendra0229/LeetCode/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/surendra0229/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0009-palindrome-number](https://github.com/surendra0229/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/surendra0229/LeetCode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/surendra0229/LeetCode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/surendra0229/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
