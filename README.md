@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/surendra0229/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/surendra0229/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surendra0229/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
