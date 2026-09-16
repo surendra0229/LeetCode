@@ -21,6 +21,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/surendra0229/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/surendra0229/LeetCode/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/surendra0229/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +70,16 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/surendra0229/LeetCode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/surendra0229/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/surendra0229/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/surendra0229/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
