@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/surendra0229/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/surendra0229/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/surendra0229/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surendra0229/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0027-remove-element](https://github.com/surendra0229/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/surendra0229/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/surendra0229/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surendra0229/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/surendra0229/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/surendra0229/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surendra0229/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
