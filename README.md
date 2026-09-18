@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/surendra0229/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surendra0229/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/surendra0229/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/surendra0229/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surendra0229/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -38,11 +39,13 @@
 | [0075-sort-colors](https://github.com/surendra0229/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/surendra0229/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surendra0229/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surendra0229/LeetCode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +65,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/surendra0229/LeetCode/tree/master/0075-sort-colors) |
+| [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/surendra0229/LeetCode/tree/master/1051-height-checker) |
 ## Quicksort
@@ -110,4 +114,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/surendra0229/LeetCode/tree/master/0042-trapping-rain-water) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
