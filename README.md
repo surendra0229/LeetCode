@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/surendra0229/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/surendra0229/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/surendra0229/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surendra0229/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/surendra0229/LeetCode/tree/master/0035-search-insert-position) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surendra0229/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/surendra0229/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surendra0229/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/surendra0229/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -64,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/surendra0229/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/surendra0229/LeetCode/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
