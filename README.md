@@ -41,6 +41,7 @@
 | [0075-sort-colors](https://github.com/surendra0229/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/surendra0229/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surendra0229/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0541-reverse-string-ii](https://github.com/surendra0229/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -59,6 +60,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/surendra0229/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/surendra0229/LeetCode/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/surendra0229/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Newton's Method
 |  |
 | ------- |
