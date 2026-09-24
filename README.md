@@ -24,11 +24,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/surendra0229/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/surendra0229/LeetCode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/surendra0229/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/surendra0229/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/surendra0229/LeetCode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/surendra0229/LeetCode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surendra0229/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -43,6 +45,7 @@
 | [0088-merge-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/surendra0229/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surendra0229/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/surendra0229/LeetCode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/surendra0229/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -126,4 +129,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/surendra0229/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
