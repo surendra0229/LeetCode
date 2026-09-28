@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/surendra0229/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surendra0229/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/surendra0229/LeetCode/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/surendra0229/LeetCode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0202-happy-number](https://github.com/surendra0229/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/surendra0229/LeetCode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/surendra0229/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/surendra0229/LeetCode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -70,6 +72,7 @@
 | [0058-length-of-last-word](https://github.com/surendra0229/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/surendra0229/LeetCode/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/surendra0229/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/surendra0229/LeetCode/tree/master/0567-permutation-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surendra0229/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Newton's Method
 |  |
@@ -118,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surendra0229/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/surendra0229/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/surendra0229/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surendra0229/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting Sort
