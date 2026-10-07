@@ -26,6 +26,7 @@
 | [1051-height-checker](https://github.com/surendra0229/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surendra0229/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/surendra0229/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/surendra0229/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/surendra0229/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@
 | [0219-contains-duplicate-ii](https://github.com/surendra0229/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/surendra0229/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/surendra0229/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/surendra0229/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surendra0229/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting Sort
 |  |
