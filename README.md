@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/surendra0229/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/surendra0229/LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/surendra0229/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/surendra0229/LeetCode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/surendra0229/LeetCode/tree/master/1051-height-checker) |
@@ -74,6 +75,7 @@
 | [0035-search-insert-position](https://github.com/surendra0229/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/surendra0229/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surendra0229/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/surendra0229/LeetCode/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
