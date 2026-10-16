@@ -21,6 +21,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surendra0229/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/surendra0229/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/surendra0229/LeetCode/tree/master/0283-move-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/surendra0229/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/surendra0229/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/surendra0229/LeetCode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -38,6 +39,7 @@
 | [0202-happy-number](https://github.com/surendra0229/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/surendra0229/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/surendra0229/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/surendra0229/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0016-3sum-closest](https://github.com/surendra0229/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/surendra0229/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/surendra0229/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0881-boats-to-save-people](https://github.com/surendra0229/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/surendra0229/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/surendra0229/LeetCode/tree/master/1051-height-checker) |
@@ -142,6 +145,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/surendra0229/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/surendra0229/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/surendra0229/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/surendra0229/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/surendra0229/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/surendra0229/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/surendra0229/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -149,6 +153,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/surendra0229/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/surendra0229/LeetCode/tree/master/1051-height-checker) |
 ## Stack
 |  |
