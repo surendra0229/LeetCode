@@ -52,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surendra0229/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/surendra0229/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/surendra0229/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/surendra0229/LeetCode/tree/master/0016-3sum-closest) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surendra0229/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/surendra0229/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/surendra0229/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/surendra0229/LeetCode/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/surendra0229/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -127,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surendra0229/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/surendra0229/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/surendra0229/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surendra0229/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/surendra0229/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/surendra0229/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
